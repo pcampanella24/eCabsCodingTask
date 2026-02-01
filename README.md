@@ -15,7 +15,8 @@
 --- 
 
 ## **Tech Stack** 
-- Java 21 - Maven
+- Java 21
+- Maven
 - JUnit 5 (tests covering logic, edge cases, and concurrency)
 - No frameworks — lightweight design using:
   - ConcurrentHashMap
